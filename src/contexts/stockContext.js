@@ -1,6 +1,4 @@
 import { createContext, Component } from 'react'
-import stockList from '../stocklist'
-import axios from 'axios';
 
 
 export const StockContext = createContext();
